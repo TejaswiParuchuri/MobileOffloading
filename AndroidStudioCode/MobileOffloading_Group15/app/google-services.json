@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "748855486448",
+    "firebase_url": "https://mobileoffloading-group15.firebaseio.com",
+    "project_id": "mobileoffloading-group15",
+    "storage_bucket": "mobileoffloading-group15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748855486448:android:c3aff3774e712c725a5f35",
+        "android_client_info": {
+          "package_name": "com.example.mobileoffloading_group15"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748855486448-9kfi4908gn5ubm1dl6ee21a44m3serl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP9h91afFwCSElx8lQWVc6tV9IUDKB16E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748855486448-9kfi4908gn5ubm1dl6ee21a44m3serl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
